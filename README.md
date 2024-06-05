@@ -1,4 +1,4 @@
-Project converting broken code for a mock website into a responsive working version
+# Project converting broken code for a mock website into a responsive working version
 
 Folders: 
 
